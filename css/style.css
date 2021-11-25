@@ -10,7 +10,9 @@
 body {
   min-height: 1000px;
 }
-
+.col-50 {
+  width: 45%;
+}
 .btn-wsp {
   position: fixed;
   width: 70px;
@@ -40,6 +42,12 @@ body {
 }
 .github {
   width: 42px;
+}
+.enlace {
+  color: black;
+}
+.enlace:hover {
+  color: blueviolet;
 }
 .btn-social {
   line-height: 70px;
